@@ -1,0 +1,30 @@
+.category-btn {
+    width: 100px;
+    margin: 10px;
+    text-transform: capitalize;
+}
+.table td:first-child{
+    text-transform: capitalize;
+}
+table.table td a {
+    margin: 2px;
+}
+table.table td a.add {
+    color: #27C46B;
+}
+table.table td a.edit {
+    color: #FFC107;
+}
+table.table td a.delete {
+    color: #E34724;
+}
+.table-images {
+    width: 50px;
+    height: 50px;
+}
+.carousel {
+    position: unset !important;
+}
+.delete {
+    cursor: pointer;
+}
